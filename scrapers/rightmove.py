@@ -1,7 +1,7 @@
 import logging
 import re
 import json
-from .base import BaseScraper
+from .base import BaseScraper, classify_room_type
 
 logger = logging.getLogger(__name__)
 
@@ -43,7 +43,10 @@ class RightmoveScraper(BaseScraper):
                     if is_stud:
                         prop_type = 'Studio'
                     elif is_room:
-                        prop_type = 'Ensuite Room'
+                        prop_type = classify_room_type(
+                            rp.get('propertyTypeFullDescription', ''),
+                            rp.get('summary', '')
+                        )
                     elif beds != 1:
                         continue
                     

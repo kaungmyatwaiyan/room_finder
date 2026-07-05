@@ -6,6 +6,7 @@ from datetime import date, timedelta
 from unittest.mock import patch
 
 from scrapers import OpenRentScraper, RightmoveScraper, OnTheMarketScraper, ZooplaScraper
+from scrapers.base import classify_room_type
 from main import load_tfl_cache, apply_tfl_cache, deduplicate_properties
 
 
@@ -38,6 +39,42 @@ def make_property(**overrides):
     }
     base.update(overrides)
     return base
+
+
+# ---------------------------------------------------------------------------
+# classify_room_type tests
+# ---------------------------------------------------------------------------
+
+class TestClassifyRoomType(unittest.TestCase):
+    """Verify the shared room-type classifier returns correct labels."""
+
+    def test_ensuite_wins_over_double(self):
+        self.assertEqual(classify_room_type('Large double ensuite room'), 'Ensuite Room')
+
+    def test_en_suite_hyphenated(self):
+        self.assertEqual(classify_room_type('Bright en-suite room to rent'), 'Ensuite Room')
+
+    def test_en_suite_two_words(self):
+        self.assertEqual(classify_room_type('Double room', 'en suite bathroom'), 'Ensuite Room')
+
+    def test_double_room(self):
+        self.assertEqual(classify_room_type('Large double room available'), 'Double Room')
+
+    def test_double_bedroom(self):
+        self.assertEqual(classify_room_type('Double bedroom in shared house'), 'Double Room')
+
+    def test_single_room(self):
+        self.assertEqual(classify_room_type('Single room in friendly flatshare'), 'Single Room')
+
+    def test_generic_room_fallback(self):
+        self.assertEqual(classify_room_type('Room to rent in house share'), 'Room')
+
+    def test_flatshare_generic(self):
+        self.assertEqual(classify_room_type('Flatshare in zone 2'), 'Room')
+
+    def test_case_insensitive(self):
+        self.assertEqual(classify_room_type('ENSUITE DOUBLE ROOM'), 'Ensuite Room')
+        self.assertEqual(classify_room_type('DOUBLE ROOM'), 'Double Room')
 
 
 # ---------------------------------------------------------------------------

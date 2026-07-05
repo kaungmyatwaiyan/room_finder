@@ -67,7 +67,7 @@ class OpenRentScraper(BaseScraper):
             if is_stud:
                 prop_type = 'Studio'
             elif shared:
-                prop_type = 'Ensuite Room'
+                prop_type = 'Room'
 
             furn_status = 'Unknown'
             if i < len(furnished) and int(furnished[i]) == 1:

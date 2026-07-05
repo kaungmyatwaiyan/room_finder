@@ -17,6 +17,25 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return R * c
 
 
+def classify_room_type(title: str, summary: str = "") -> str:
+    """Return a specific room-type label from listing text.
+
+    Priority order:
+      1. Ensuite Room  — explicitly mentions ensuite / en-suite / en suite
+      2. Double Room   — mentions 'double room' (e.g. large double, double bedroom to rent)
+      3. Single Room   — mentions 'single room'
+      4. Room          — generic fallback for any other shared / room listing
+    """
+    combined = (title + " " + summary).lower()
+    if 'ensuite' in combined or 'en-suite' in combined or 'en suite' in combined:
+        return 'Ensuite Room'
+    if 'double room' in combined or 'double bedroom' in combined:
+        return 'Double Room'
+    if 'single room' in combined or 'single bedroom' in combined:
+        return 'Single Room'
+    return 'Room'
+
+
 class BaseScraper:
     def __init__(self):
         # curl_cffi impersonates Chrome to bypass Cloudflare TLS fingerprints
