@@ -988,6 +988,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-86254023",
+        "price": 1798,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.52884,
+        "lng": -0.09049,
+        "source": "Rightmove",
+        "address": "Westland Place, Old Street N1",
+        "url": "https://www.rightmove.co.uk/properties/86254023#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 13/05/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/86254023#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 3.2592474802779616,
+        "commute_time": 30,
+        "station_walk_time": 2,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90394983",
         "price": 1798,
         "bedrooms": 0,
@@ -2106,6 +2132,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-89889900",
+        "price": 1400,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.496296,
+        "lng": -0.186325,
+        "source": "Rightmove",
+        "address": "Emperors Gate, London, SW7 4HJ",
+        "url": "https://www.rightmove.co.uk/properties/89889900#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 18/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89889900#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 4.465012711122537,
+        "commute_time": 35,
+        "station_walk_time": 8,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90424077",
         "price": 2000,
         "bedrooms": 0,
@@ -2704,32 +2756,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-90147516",
-        "price": 1950,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.49339,
-        "lng": -0.19174,
-        "source": "Rightmove",
-        "address": "Hogarth Road, Earls Court, London, SW5",
-        "url": "https://www.rightmove.co.uk/properties/90147516#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Reduced on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90147516#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 4.959695036566283,
-        "commute_time": 37,
-        "station_walk_time": 7,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-90383574",
         "price": 1950,
         "bedrooms": 1,
@@ -2752,6 +2778,32 @@
         "distance_km": 4.963275840231534,
         "commute_time": 29,
         "station_walk_time": 8,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
+        "id": "rightmove-88869246",
+        "price": 1345,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.549567,
+        "lng": -0.191999,
+        "source": "Rightmove",
+        "address": "Sandwell Crescent, West Hampstead, NW6 (All bills Included)",
+        "url": "https://www.rightmove.co.uk/properties/88869246#/?channel=RES_LET",
+        "furnished": "Unfurnished",
+        "bills_included": true,
+        "listing_age": "Reduced on 01/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/88869246#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 4.9687654069198475,
+        "commute_time": 35,
+        "station_walk_time": 6,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -2830,6 +2882,32 @@
         "distance_km": 4.982772314465487,
         "commute_time": 37,
         "station_walk_time": 1,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
+        "id": "rightmove-89487369",
+        "price": 1950,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.491489,
+        "lng": -0.189634,
+        "source": "Rightmove",
+        "address": "Flat 11, 39 Bramham Gardens, London",
+        "url": "https://www.rightmove.co.uk/properties/89487369#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added on 09/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89487369#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 4.9863772586644,
+        "commute_time": 37,
+        "station_walk_time": 8,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -2938,28 +3016,28 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-89011983",
-        "price": 1750,
+        "id": "rightmove-90004308",
+        "price": 1600,
         "bedrooms": 1,
         "is_studio": false,
         "property_type": "Room",
-        "lat": 51.56666,
-        "lng": -0.12246,
+        "lat": 51.56648,
+        "lng": -0.12189,
         "source": "Rightmove",
-        "address": "Marlborough Road, Archway",
-        "url": "https://www.rightmove.co.uk/properties/89011983#/?channel=RES_LET",
-        "furnished": "Furnished",
+        "address": "Hornsey Road, Archway",
+        "url": "https://www.rightmove.co.uk/properties/90004308#/?channel=RES_LET",
+        "furnished": "Unknown",
         "bills_included": false,
-        "listing_age": "Reduced on 24/06/2026",
+        "listing_age": "Added on 22/06/2026",
         "sources": [
             {
                 "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89011983#/?channel=RES_LET"
+                "url": "https://www.rightmove.co.uk/properties/90004308#/?channel=RES_LET"
             }
         ],
-        "distance_km": 5.109385595280429,
-        "commute_time": 30,
-        "station_walk_time": 2,
+        "distance_km": 5.097168494990589,
+        "commute_time": 33,
+        "station_walk_time": 7,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -3194,32 +3272,6 @@
         "distance_km": 5.224303871615036,
         "commute_time": 43,
         "station_walk_time": 4,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-89134485",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.54935,
-        "lng": -0.07502,
-        "source": "Rightmove",
-        "address": "Kingsland High Street, Shacklewell, London, E8",
-        "url": "https://www.rightmove.co.uk/properties/89134485#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Reduced on 29/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89134485#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.23814067788669,
-        "commute_time": 36,
-        "station_walk_time": 5,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -3718,32 +3770,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-89870244",
-        "price": 1900,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.568179,
-        "lng": -0.110181,
-        "source": "Rightmove",
-        "address": "Stroud Green Road, N4",
-        "url": "https://www.rightmove.co.uk/properties/89870244#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Reduced on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89870244#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.491221161506512,
-        "commute_time": 31,
-        "station_walk_time": 10,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-90461172",
         "price": 2000,
         "bedrooms": 1,
@@ -3848,32 +3874,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-90353775",
-        "price": 1950,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.496998,
-        "lng": -0.205497,
-        "source": "Rightmove",
-        "address": "Kenton Court, London, W14",
-        "url": "https://www.rightmove.co.uk/properties/90353775#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": true,
-        "listing_age": "Added on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90353775#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.521683275621822,
-        "commute_time": 45,
-        "station_walk_time": 4,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-89728791",
         "price": 2000,
         "bedrooms": 1,
@@ -3948,32 +3948,6 @@
         "distance_km": 5.546693099765586,
         "commute_time": 40,
         "station_walk_time": 4,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90353814",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.493457,
-        "lng": -0.069818,
-        "source": "Rightmove",
-        "address": "Yalding Road, London, SE16",
-        "url": "https://www.rightmove.co.uk/properties/90353814#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90353814#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.546791987096548,
-        "commute_time": 45,
-        "station_walk_time": 17,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -4108,32 +4082,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-90296997",
-        "price": 1803,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.489772,
-        "lng": -0.072721,
-        "source": "Rightmove",
-        "address": "Burnham Close, London, SE1",
-        "url": "https://www.rightmove.co.uk/properties/90296997#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90296997#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.629282895780892,
-        "commute_time": 51,
-        "station_walk_time": 10,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-90501519",
         "price": 1750,
         "bedrooms": 1,
@@ -4208,32 +4156,6 @@
         "distance_km": 5.710975266330861,
         "commute_time": 32,
         "station_walk_time": 5,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90263664",
-        "price": 880,
-        "bedrooms": 4,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.572476,
-        "lng": -0.125442,
-        "source": "Rightmove",
-        "address": "NEW ORLEANS WALK",
-        "url": "https://www.rightmove.co.uk/properties/90263664#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 29/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90263664#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 5.715983678710303,
-        "commute_time": 36,
-        "station_walk_time": 4,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -4858,32 +4780,6 @@
         "distance_km": 6.125181169557064,
         "commute_time": 40,
         "station_walk_time": 1,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-87960126",
-        "price": 1550,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.47838,
-        "lng": -0.08096,
-        "source": "Rightmove",
-        "address": "59, Peckham Grove, London, SE15",
-        "url": "https://www.rightmove.co.uk/properties/87960126#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/87960126#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 6.1284185064370655,
-        "commute_time": 46,
-        "station_walk_time": 3,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -6318,6 +6214,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-90243651",
+        "price": 2000,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Double Room",
+        "lat": 51.566746,
+        "lng": -0.203492,
+        "source": "Rightmove",
+        "address": "Sunflower Court, Granville Road, NW2",
+        "url": "https://www.rightmove.co.uk/properties/90243651#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added on 29/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90243651#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 6.857946894469171,
+        "commute_time": 39,
+        "station_walk_time": 4,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90473538",
         "price": 1990,
         "bedrooms": 0,
@@ -6782,32 +6704,6 @@
         "distance_km": 7.004499758732536,
         "commute_time": 53,
         "station_walk_time": 10,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90273498",
-        "price": 1842,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.460205,
-        "lng": -0.112337,
-        "source": "Rightmove",
-        "address": "Kellett Road, SW2",
-        "url": "https://www.rightmove.co.uk/properties/90273498#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 29/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90273498#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 7.0114482176536,
-        "commute_time": 38,
-        "station_walk_time": 12,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -7340,7 +7236,7 @@
         "lat": 51.47999,
         "lng": -0.05171,
         "source": "Rightmove",
-        "address": "Water Lane, London",
+        "address": "Water Lane, London, SE14",
         "url": "https://www.rightmove.co.uk/properties/90480831#/?channel=RES_LET",
         "furnished": "Unknown",
         "bills_included": false,
@@ -7748,6 +7644,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-90513423",
+        "price": 1800,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.45269,
+        "lng": -0.14816,
+        "source": "Rightmove",
+        "address": "Nightingale Lane, London, SW4",
+        "url": "https://www.rightmove.co.uk/properties/90513423#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": true,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90513423#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 7.696754218056999,
+        "commute_time": 36,
+        "station_walk_time": 5,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90416406",
         "price": 2000,
         "bedrooms": 1,
@@ -7926,32 +7848,6 @@
         "distance_km": 7.751150940074048,
         "commute_time": 56,
         "station_walk_time": 5,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90447081",
-        "price": 1850,
-        "bedrooms": 2,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.53468,
-        "lng": -0.24619,
-        "source": "Rightmove",
-        "address": "Wendover Road, Harlesden",
-        "url": "https://www.rightmove.co.uk/properties/90447081#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 03/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90447081#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 7.75551309503268,
-        "commute_time": 42,
-        "station_walk_time": 9,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -8476,32 +8372,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-89430942",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.508121,
-        "lng": -0.250058,
-        "source": "Rightmove",
-        "address": "Bromyard Avenue, London",
-        "url": "https://www.rightmove.co.uk/properties/89430942#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 08/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89430942#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 8.024764318673292,
-        "commute_time": 56,
-        "station_walk_time": 7,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-90384339",
         "price": 2000,
         "bedrooms": 2,
@@ -8862,32 +8732,6 @@
         "distance_km": 8.226152897166937,
         "commute_time": 38,
         "station_walk_time": 14,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90354204",
-        "price": 2000,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.473331,
-        "lng": -0.045751,
-        "source": "Rightmove",
-        "address": "Queens Road, New Cross, London, SE14",
-        "url": "https://www.rightmove.co.uk/properties/90354204#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": true,
-        "listing_age": "Added on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90354204#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 8.234395067299907,
-        "commute_time": 52,
-        "station_walk_time": 11,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -9854,6 +9698,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-88639875",
+        "price": 1850,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.52299,
+        "lng": -0.260947,
+        "source": "Rightmove",
+        "address": "Trentam Court, North Acton, W3",
+        "url": "https://www.rightmove.co.uk/properties/88639875#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Reduced today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/88639875#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 8.639336944478908,
+        "commute_time": 40,
+        "station_walk_time": 5,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90425169",
         "price": 1650,
         "bedrooms": 1,
@@ -10062,54 +9932,28 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-89120958",
-        "price": 1900,
+        "id": "rightmove-90238836",
+        "price": 1950,
         "bedrooms": 0,
         "is_studio": true,
         "property_type": "Studio",
-        "lat": 51.521528,
-        "lng": -0.010159,
+        "lat": 51.521526,
+        "lng": -0.010202,
         "source": "Rightmove",
-        "address": "Apartment 107 Skyline Apartments 11 Makers Yard London E3 3YP",
-        "url": "https://www.rightmove.co.uk/properties/89120958#/?channel=RES_LET",
+        "address": "Makers Yard, Skyline Apartments, E3",
+        "url": "https://www.rightmove.co.uk/properties/90238836#/?channel=RES_LET",
         "furnished": "Furnished",
         "bills_included": false,
-        "listing_age": "Added on 01/06/2026",
+        "listing_age": "Added on 29/06/2026",
         "sources": [
             {
                 "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89120958#/?channel=RES_LET"
+                "url": "https://www.rightmove.co.uk/properties/90238836#/?channel=RES_LET"
             }
         ],
-        "distance_km": 8.713578759386749,
+        "distance_km": 8.710603800392871,
         "commute_time": 51,
         "station_walk_time": 6,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-88970862",
-        "price": 2000,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.53246,
-        "lng": -0.01126,
-        "source": "Rightmove",
-        "address": "Corn House, London E15",
-        "url": "https://www.rightmove.co.uk/properties/88970862#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Reduced on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/88970862#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 8.721928253475253,
-        "commute_time": 46,
-        "station_walk_time": 3,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -11076,32 +10920,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-89205498",
-        "price": 1850,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.536662,
-        "lng": -0.007607,
-        "source": "Rightmove",
-        "address": "Biggerstaff Road, London, E15",
-        "url": "https://www.rightmove.co.uk/properties/89205498#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Reduced on 16/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89205498#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 9.047143362321558,
-        "commute_time": 46,
-        "station_walk_time": 4,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-88865745",
         "price": 1400,
         "bedrooms": 1,
@@ -11778,6 +11596,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-89783007",
+        "price": 950,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.462225,
+        "lng": -0.231698,
+        "source": "Rightmove",
+        "address": "30 Malbrook Road, London, SW15",
+        "url": "https://www.rightmove.co.uk/properties/89783007#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 16/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89783007#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 9.340615773313981,
+        "commute_time": 58,
+        "station_walk_time": 5,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-89768748",
         "price": 2000,
         "bedrooms": 2,
@@ -12060,32 +11904,6 @@
         "distance_km": 9.467113623138529,
         "commute_time": 56,
         "station_walk_time": 4,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-89069709",
-        "price": 2000,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.480291,
-        "lng": -0.01637,
-        "source": "Rightmove",
-        "address": "Babbage Point, Norman Rd, SE10",
-        "url": "https://www.rightmove.co.uk/properties/89069709#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 29/05/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89069709#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 9.470015552476587,
-        "commute_time": 54,
-        "station_walk_time": 9,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -12662,6 +12480,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-90126513",
+        "price": 1700,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.5606,
+        "lng": -0.01119,
+        "source": "Rightmove",
+        "address": "Osborne Road, Leyton, E10",
+        "url": "https://www.rightmove.co.uk/properties/90126513#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 25/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90126513#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 9.67093587188782,
+        "commute_time": 47,
+        "station_walk_time": 2,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90297939",
         "price": 1825,
         "bedrooms": 2,
@@ -12684,6 +12528,32 @@
         "distance_km": 9.684279925548186,
         "commute_time": 44,
         "station_walk_time": 4,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
+        "id": "rightmove-90513213",
+        "price": 1900,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Double Room",
+        "lat": 51.563694,
+        "lng": -0.013449,
+        "source": "Rightmove",
+        "address": "Ryder Court, 42 Church Road, Leyton, London, E10",
+        "url": "https://www.rightmove.co.uk/properties/90513213#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90513213#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 9.693155631483053,
+        "commute_time": 51,
+        "station_walk_time": 2,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -12892,32 +12762,6 @@
         "distance_km": 9.740064611882492,
         "commute_time": 42,
         "station_walk_time": 7,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-90228471",
-        "price": 1650,
-        "bedrooms": 2,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.605638,
-        "lng": -0.175501,
-        "source": "Rightmove",
-        "address": "High Road, North Finchley, N12",
-        "url": "https://www.rightmove.co.uk/properties/90228471#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 27/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90228471#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 9.74408482822345,
-        "commute_time": 47,
-        "station_walk_time": 5,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -13182,32 +13026,6 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-90244566",
-        "price": 1985,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.58725,
-        "lng": -0.04081,
-        "source": "Rightmove",
-        "address": "Blackhorse Lane, London, E17",
-        "url": "https://www.rightmove.co.uk/properties/90244566#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": true,
-        "listing_age": "Added on 29/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90244566#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 9.841510336629225,
-        "commute_time": 34,
-        "station_walk_time": 5,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
         "id": "rightmove-90451086",
         "price": 1650,
         "bedrooms": 0,
@@ -13260,27 +13078,27 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
-        "id": "rightmove-90512496",
-        "price": 1500,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.544541,
-        "lng": -0.273768,
+        "id": "rightmove-90512499",
+        "price": 1484,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.544628,
+        "lng": -0.273757,
         "source": "Rightmove",
         "address": "WEM Tower, Wembley, HA9",
-        "url": "https://www.rightmove.co.uk/properties/90512496#/?channel=RES_LET",
+        "url": "https://www.rightmove.co.uk/properties/90512499#/?channel=RES_LET",
         "furnished": "Furnished",
         "bills_included": true,
         "listing_age": "Added today",
         "sources": [
             {
                 "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90512496#/?channel=RES_LET"
+                "url": "https://www.rightmove.co.uk/properties/90512499#/?channel=RES_LET"
             }
         ],
-        "distance_km": 9.861173864854592,
-        "commute_time": 46,
+        "distance_km": 9.862948348679968,
+        "commute_time": 43,
         "station_walk_time": 5,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
@@ -13546,6 +13364,32 @@
         "tfl_cached_on": "2026-07-05"
     },
     {
+        "id": "rightmove-90513147",
+        "price": 1950,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.513237,
+        "lng": 0.006593,
+        "source": "Rightmove",
+        "address": "Defoe House, 123 City Island Way, London City Island, Canning Town, E14",
+        "url": "https://www.rightmove.co.uk/properties/90513147#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90513147#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 9.916168786136593,
+        "commute_time": 43,
+        "station_walk_time": 7,
+        "is_walk_only": false,
+        "tfl_cached_on": "2026-07-05"
+    },
+    {
         "id": "rightmove-90378534",
         "price": 1751,
         "bedrooms": 1,
@@ -13594,32 +13438,6 @@
         "distance_km": 9.924852530608439,
         "commute_time": 48,
         "station_walk_time": 9,
-        "is_walk_only": false,
-        "tfl_cached_on": "2026-07-05"
-    },
-    {
-        "id": "rightmove-88947375",
-        "price": 1500,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.46701,
-        "lng": -0.022378,
-        "source": "Rightmove",
-        "address": "Loampit Hill, London, SE13",
-        "url": "https://www.rightmove.co.uk/properties/88947375#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 26/05/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/88947375#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 9.934478353177308,
-        "commute_time": 54,
-        "station_walk_time": 16,
         "is_walk_only": false,
         "tfl_cached_on": "2026-07-05"
     },
@@ -13852,32 +13670,6 @@
             }
         ],
         "distance_km": 10.026000319828846,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
-        "id": "rightmove-90305784",
-        "price": 1917,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.44428,
-        "lng": -0.21086,
-        "source": "Rightmove",
-        "address": "Augustus Road, London, SW19",
-        "url": "https://www.rightmove.co.uk/properties/90305784#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90305784#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 10.026335797304142,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -14430,32 +14222,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-89524377",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.576575,
-        "lng": -0.016807,
-        "source": "Rightmove",
-        "address": "Gandhi Close, London, E17",
-        "url": "https://www.rightmove.co.uk/properties/89524377#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Reduced on 22/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89524377#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 10.273459142488752,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90455811",
         "price": 1700,
         "bedrooms": 2,
@@ -14606,32 +14372,6 @@
             }
         ],
         "distance_km": 10.35369434285851,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
-        "id": "rightmove-90114324",
-        "price": 1800,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.581535,
-        "lng": -0.021534,
-        "source": "Rightmove",
-        "address": "Sylvan Road, Walthamstow, London, E17",
-        "url": "https://www.rightmove.co.uk/properties/90114324#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 25/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90114324#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 10.359108286801868,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -15782,6 +15522,32 @@
         "tfl_cached_on": ""
     },
     {
+        "id": "rightmove-90119880",
+        "price": 1700,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.438628,
+        "lng": -0.055645,
+        "source": "Rightmove",
+        "address": "Windley Close, Forest Hill, London, SE23",
+        "url": "https://www.rightmove.co.uk/properties/90119880#/?channel=RES_LET",
+        "furnished": "Unfurnished",
+        "bills_included": false,
+        "listing_age": "Added on 25/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90119880#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 10.768359764268148,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
         "id": "rightmove-90446646",
         "price": 1500,
         "bedrooms": 0,
@@ -15860,32 +15626,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90213369",
-        "price": 2000,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.59499,
-        "lng": -0.23839,
-        "source": "Rightmove",
-        "address": "The Draper, Colindale, London, NW9",
-        "url": "https://www.rightmove.co.uk/properties/90213369#/?channel=RES_LET",
-        "furnished": "Unfurnished",
-        "bills_included": false,
-        "listing_age": "Added on 26/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90213369#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 10.806624047631564,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90446328",
         "price": 1450,
         "bedrooms": 0,
@@ -15958,6 +15698,32 @@
             }
         ],
         "distance_km": 10.82906225396719,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90514050",
+        "price": 1750,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.515419,
+        "lng": 0.020422,
+        "source": "Rightmove",
+        "address": "Hastings Road, London, W13",
+        "url": "https://www.rightmove.co.uk/properties/90514050#/?channel=RES_LET",
+        "furnished": "Unfurnished",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90514050#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 10.851223197848478,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -16250,32 +16016,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90302820",
-        "price": 1950,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.595607,
-        "lng": -0.240772,
-        "source": "Rightmove",
-        "address": "Delfino House, London NW9",
-        "url": "https://www.rightmove.co.uk/properties/90302820#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90302820#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 10.96651611841965,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90399567",
         "price": 2000,
         "bedrooms": 2,
@@ -16380,26 +16120,26 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-88403340",
-        "price": 1000,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.462341,
-        "lng": -0.007822,
+        "id": "rightmove-90513378",
+        "price": 1750,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.608105,
+        "lng": -0.214366,
         "source": "Rightmove",
-        "address": "Marischall Road, Lewisham, London",
-        "url": "https://www.rightmove.co.uk/properties/88403340#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": true,
-        "listing_age": "Reduced on 01/07/2026",
+        "address": "FLAT - Honiton Gardens, London",
+        "url": "https://www.rightmove.co.uk/properties/90513378#/?channel=RES_LET",
+        "furnished": "Unfurnished",
+        "bills_included": false,
+        "listing_age": "Added today",
         "sources": [
             {
                 "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/88403340#/?channel=RES_LET"
+                "url": "https://www.rightmove.co.uk/properties/90513378#/?channel=RES_LET"
             }
         ],
-        "distance_km": 11.051933140073182,
+        "distance_km": 11.045569989620535,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -16874,32 +16614,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90440184",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.49218,
-        "lng": -0.29147,
-        "source": "Rightmove",
-        "address": "Great West Road, London, TW8",
-        "url": "https://www.rightmove.co.uk/properties/90440184#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 03/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90440184#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 11.236536131407064,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90440190",
         "price": 1900,
         "bedrooms": 1,
@@ -16943,6 +16657,58 @@
             {
                 "source": "Rightmove",
                 "url": "https://www.rightmove.co.uk/properties/90440181#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.236536131407064,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90440184",
+        "price": 1750,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.49218,
+        "lng": -0.29147,
+        "source": "Rightmove",
+        "address": "Great West Road, London, TW8",
+        "url": "https://www.rightmove.co.uk/properties/90440184#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 03/07/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90440184#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.236536131407064,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90440187",
+        "price": 1825,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.49218,
+        "lng": -0.29147,
+        "source": "Rightmove",
+        "address": "Great West Road, London, TW8",
+        "url": "https://www.rightmove.co.uk/properties/90440187#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Reduced on 19/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90440187#/?channel=RES_LET"
             }
         ],
         "distance_km": 11.236536131407064,
@@ -17076,6 +16842,32 @@
             }
         ],
         "distance_km": 11.256557871199949,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-89976957",
+        "price": 1800,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.428583,
+        "lng": -0.201141,
+        "source": "Rightmove",
+        "address": "Kenilworth Avenue, Wimbledon, London, SW19",
+        "url": "https://www.rightmove.co.uk/properties/89976957#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 22/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89976957#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.271194902364744,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -17362,6 +17154,32 @@
             }
         ],
         "distance_km": 11.399519876107005,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90513633",
+        "price": 1900,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.422292,
+        "lng": -0.177626,
+        "source": "Rightmove",
+        "address": "Boundary Road, Colliers Wood, SW19",
+        "url": "https://www.rightmove.co.uk/properties/90513633#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90513633#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.400219440929067,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -18200,6 +18018,32 @@
         "tfl_cached_on": ""
     },
     {
+        "id": "rightmove-90513282",
+        "price": 1800,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Double Room",
+        "lat": 51.480816,
+        "lng": 0.019928,
+        "source": "Rightmove",
+        "address": "Westcombe Hill, London, SE3",
+        "url": "https://www.rightmove.co.uk/properties/90513282#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90513282#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.70924493040117,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
         "id": "rightmove-90394515",
         "price": 1550,
         "bedrooms": 1,
@@ -18480,6 +18324,32 @@
             }
         ],
         "distance_km": 11.832082617516361,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-89746251",
+        "price": 2000,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.468499,
+        "lng": -0.285328,
+        "source": "Rightmove",
+        "address": "Darell Road, Richmond, TW9",
+        "url": "https://www.rightmove.co.uk/properties/89746251#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 16/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89746251#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 11.893582219133524,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -19214,32 +19084,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90249159",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.41658,
-        "lng": -0.19707,
-        "source": "Rightmove",
-        "address": "Dolphin Court, 12-16 Southey Road, London, SW19",
-        "url": "https://www.rightmove.co.uk/properties/90249159#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 22/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90249159#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 12.407441641743619,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90378117",
         "price": 1500,
         "bedrooms": 1,
@@ -19338,6 +19182,32 @@
             }
         ],
         "distance_km": 12.44431455506981,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90123042",
+        "price": 2000,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.577129,
+        "lng": 0.020528,
+        "source": "Rightmove",
+        "address": "Bourne Court, New Wanstead, Wanstead, E11",
+        "url": "https://www.rightmove.co.uk/properties/90123042#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added on 25/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90123042#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 12.472128977285589,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -19474,32 +19344,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90295356",
-        "price": 1900,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.47015,
-        "lng": 0.02519,
-        "source": "Rightmove",
-        "address": "Wricklemarsh Road, Blackheath, London, SE3",
-        "url": "https://www.rightmove.co.uk/properties/90295356#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 30/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90295356#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 12.540847130308759,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90371523",
         "price": 1775,
         "bedrooms": 1,
@@ -19630,32 +19474,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-89442792",
-        "price": 1750,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.40873,
-        "lng": -0.15453,
-        "source": "Rightmove",
-        "address": "Rialto Road London CR4",
-        "url": "https://www.rightmove.co.uk/properties/89442792#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Reduced on 08/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/89442792#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 12.604278541185531,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90395844",
         "price": 1700,
         "bedrooms": 2,
@@ -19754,6 +19572,32 @@
             }
         ],
         "distance_km": 12.639551643449789,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90249699",
+        "price": 1750,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.474074,
+        "lng": 0.029868,
+        "source": "Rightmove",
+        "address": "Hervey Road, Blackheath, SE3",
+        "url": "https://www.rightmove.co.uk/properties/90249699#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added on 29/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90249699#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 12.641431222599865,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -19968,32 +19812,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90186096",
-        "price": 1400,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Double Room",
-        "lat": 51.426088,
-        "lng": -0.032317,
-        "source": "Rightmove",
-        "address": "Worsley Bridge Road, Lower Sydenham",
-        "url": "https://www.rightmove.co.uk/properties/90186096#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Reduced on 03/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90186096#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 12.815057693801506,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90107109",
         "price": 1450,
         "bedrooms": 1,
@@ -20011,6 +19829,32 @@
             {
                 "source": "Rightmove",
                 "url": "https://www.rightmove.co.uk/properties/90107109#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 12.815057693801506,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90186096",
+        "price": 1400,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Double Room",
+        "lat": 51.426088,
+        "lng": -0.032317,
+        "source": "Rightmove",
+        "address": "Worsley Bridge Road, Lower Sydenham",
+        "url": "https://www.rightmove.co.uk/properties/90186096#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Reduced on 03/07/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90186096#/?channel=RES_LET"
             }
         ],
         "distance_km": 12.815057693801506,
@@ -20956,32 +20800,6 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90353997",
-        "price": 1400,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.4022,
-        "lng": -0.165815,
-        "source": "Rightmove",
-        "address": "Cricket Green, Surrey, CR4",
-        "url": "https://www.rightmove.co.uk/properties/90353997#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90353997#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 13.424336075999632,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90453606",
         "price": 2000,
         "bedrooms": 2,
@@ -21158,32 +20976,6 @@
             }
         ],
         "distance_km": 13.538065057552798,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
-        "id": "rightmove-90245634",
-        "price": 1525,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.592923,
-        "lng": 0.023121,
-        "source": "Rightmove",
-        "address": "Glebelands Court, Glebelands Avenue, South Woodford, Redbridge, London",
-        "url": "https://www.rightmove.co.uk/properties/90245634#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 29/06/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90245634#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 13.573450322241847,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -21970,6 +21762,58 @@
         "tfl_cached_on": ""
     },
     {
+        "id": "rightmove-90440145",
+        "price": 1595,
+        "bedrooms": 0,
+        "is_studio": true,
+        "property_type": "Studio",
+        "lat": 51.4146,
+        "lng": -0.25007,
+        "source": "Rightmove",
+        "address": "Beverley Way, London, SW20",
+        "url": "https://www.rightmove.co.uk/properties/90440145#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added on 03/07/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90440145#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 14.269509713061435,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90440154",
+        "price": 1735,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.4146,
+        "lng": -0.25007,
+        "source": "Rightmove",
+        "address": "Beverley Way, London, SW20",
+        "url": "https://www.rightmove.co.uk/properties/90440154#/?channel=RES_LET",
+        "furnished": "Furnished",
+        "bills_included": false,
+        "listing_age": "Added on 24/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90440154#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 14.269509713061435,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
         "id": "rightmove-90440151",
         "price": 1695,
         "bedrooms": 1,
@@ -21987,32 +21831,6 @@
             {
                 "source": "Rightmove",
                 "url": "https://www.rightmove.co.uk/properties/90440151#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 14.269509713061435,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
-        "id": "rightmove-90440142",
-        "price": 1595,
-        "bedrooms": 0,
-        "is_studio": true,
-        "property_type": "Studio",
-        "lat": 51.4146,
-        "lng": -0.25007,
-        "source": "Rightmove",
-        "address": "Beverley Way, London, SW20",
-        "url": "https://www.rightmove.co.uk/properties/90440142#/?channel=RES_LET",
-        "furnished": "Furnished",
-        "bills_included": false,
-        "listing_age": "Added on 03/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90440142#/?channel=RES_LET"
             }
         ],
         "distance_km": 14.269509713061435,
@@ -22178,41 +21996,15 @@
         "tfl_cached_on": ""
     },
     {
-        "id": "rightmove-90353277",
-        "price": 2000,
-        "bedrooms": 2,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.49055,
-        "lng": 0.06672,
-        "source": "Rightmove",
-        "address": "Greens End Woolwich SE18",
-        "url": "https://www.rightmove.co.uk/properties/90353277#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 01/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90353277#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 14.453143607627508,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
         "id": "rightmove-90496881",
         "price": 1795,
         "bedrooms": 2,
         "is_studio": false,
         "property_type": "Double Room",
-        "lat": 51.47251,
-        "lng": -0.33008,
+        "lat": 51.472702,
+        "lng": -0.330341,
         "source": "Rightmove",
-        "address": "Lismore Close Isleworth",
+        "address": "Lismore Close, Isleworth",
         "url": "https://www.rightmove.co.uk/properties/90496881#/?channel=RES_LET",
         "furnished": "Furnished",
         "bills_included": false,
@@ -22223,7 +22015,7 @@
                 "url": "https://www.rightmove.co.uk/properties/90496881#/?channel=RES_LET"
             }
         ],
-        "distance_km": 14.49112959305382,
+        "distance_km": 14.499844638019335,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -23452,6 +23244,32 @@
         "tfl_cached_on": ""
     },
     {
+        "id": "rightmove-89153541",
+        "price": 1250,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.37524,
+        "lng": -0.15272,
+        "source": "Rightmove",
+        "address": "London Road, Hackbridge, Wallington, SM6",
+        "url": "https://www.rightmove.co.uk/properties/89153541#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Reduced on 29/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89153541#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 16.304101320940124,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
         "id": "rightmove-143738102",
         "price": 1450,
         "bedrooms": 1,
@@ -23784,6 +23602,32 @@
             }
         ],
         "distance_km": 17.51778338494987,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-89919708",
+        "price": 1900,
+        "bedrooms": 2,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.435812,
+        "lng": -0.348781,
+        "source": "Rightmove",
+        "address": "South Road, Twickenham, TW2",
+        "url": "https://www.rightmove.co.uk/properties/89919708#/?channel=RES_LET",
+        "furnished": "Unfurnished",
+        "bills_included": false,
+        "listing_age": "Added on 19/06/2026",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/89919708#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 17.541963470733755,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
@@ -24258,6 +24102,58 @@
         "tfl_cached_on": ""
     },
     {
+        "id": "rightmove-90512763",
+        "price": 1835,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.360698,
+        "lng": -0.189378,
+        "source": "Rightmove",
+        "address": "The Well House",
+        "url": "https://www.rightmove.co.uk/properties/90512763#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90512763#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 18.257695238685077,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
+        "id": "rightmove-90512760",
+        "price": 1690,
+        "bedrooms": 1,
+        "is_studio": false,
+        "property_type": "Room",
+        "lat": 51.360698,
+        "lng": -0.189378,
+        "source": "Rightmove",
+        "address": "The Well House",
+        "url": "https://www.rightmove.co.uk/properties/90512760#/?channel=RES_LET",
+        "furnished": "Unknown",
+        "bills_included": false,
+        "listing_age": "Added today",
+        "sources": [
+            {
+                "source": "Rightmove",
+                "url": "https://www.rightmove.co.uk/properties/90512760#/?channel=RES_LET"
+            }
+        ],
+        "distance_km": 18.257695238685077,
+        "commute_time": null,
+        "station_walk_time": null,
+        "is_walk_only": false,
+        "tfl_cached_on": ""
+    },
+    {
         "id": "rightmove-90500139",
         "price": 1450,
         "bedrooms": 1,
@@ -24304,32 +24200,6 @@
             }
         ],
         "distance_km": 18.281589347563635,
-        "commute_time": null,
-        "station_walk_time": null,
-        "is_walk_only": false,
-        "tfl_cached_on": ""
-    },
-    {
-        "id": "rightmove-90481347",
-        "price": 1850,
-        "bedrooms": 1,
-        "is_studio": false,
-        "property_type": "Room",
-        "lat": 51.36037,
-        "lng": -0.18892,
-        "source": "Rightmove",
-        "address": "Sutton Court Road, Sutton",
-        "url": "https://www.rightmove.co.uk/properties/90481347#/?channel=RES_LET",
-        "furnished": "Unknown",
-        "bills_included": false,
-        "listing_age": "Added on 03/07/2026",
-        "sources": [
-            {
-                "source": "Rightmove",
-                "url": "https://www.rightmove.co.uk/properties/90481347#/?channel=RES_LET"
-            }
-        ],
-        "distance_km": 18.287036180685455,
         "commute_time": null,
         "station_walk_time": null,
         "is_walk_only": false,
