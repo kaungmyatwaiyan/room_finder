@@ -28,7 +28,17 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Offline Tests (gate deployment)
-        run: python -m unittest tests.test_scrapers.TestScrapersOffline -v
+        run: |
+          python -m unittest \
+            tests.test_scrapers.TestClassifyRoomType \
+            tests.test_scrapers.TestRightmoveOffline \
+            tests.test_scrapers.TestOpenRentOffline \
+            tests.test_scrapers.TestOnTheMarketOffline \
+            tests.test_scrapers.TestZooplaOffline \
+            tests.test_scrapers.TestDeduplicateProperties \
+            tests.test_scrapers.TestLoadTflCache \
+            tests.test_scrapers.TestApplyTflCache \
+            -v
 
       - name: Run Scraper
         run: python main.py
