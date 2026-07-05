@@ -542,6 +542,9 @@ def generate_interactive_dashboard(properties_data, output_path):
                         <option value="Studio">Studio Only</option>
                         <option value="1 Bed Flat">1 Bedroom Flat Only</option>
                         <option value="Ensuite Room">Ensuite Room Only</option>
+                        <option value="Double Room">Double Room Only</option>
+                        <option value="Single Room">Single Room Only</option>
+                        <option value="Room">Room (Shared) Only</option>
                     </select>
                 </div>
                 
@@ -705,8 +708,14 @@ def generate_interactive_dashboard(properties_data, output_path):
                     typeBadge = '<span class="badge studio">Studio</span>';
                 }} else if (p.property_type === '1 Bed Flat') {{
                     typeBadge = '<span class="badge onebed">1 Bed Flat</span>';
-                }} else {{
+                }} else if (p.property_type === 'Ensuite Room') {{
                     typeBadge = '<span class="badge ensuite">Ensuite Room</span>';
+                }} else if (p.property_type === 'Double Room') {{
+                    typeBadge = '<span class="badge ensuite">Double Room</span>';
+                }} else if (p.property_type === 'Single Room') {{
+                    typeBadge = '<span class="badge ensuite">Single Room</span>';
+                }} else {{
+                    typeBadge = `<span class="badge ensuite">${{p.property_type || 'Room'}}</span>`;
                 }}
 
                 const mapsUrl = `https://www.google.com/maps/dir/?api=1&origin=${{p.lat}},${{p.lng}}&destination=51.5262,-0.1368&travelmode=transit`;
