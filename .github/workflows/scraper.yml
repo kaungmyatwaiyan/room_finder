@@ -1,8 +1,9 @@
 name: Room Finder Scraper
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Runs daily at midday (12:00 UTC)
+  # Automated daily schedule disabled
+  # schedule:
+  #   - cron: '0 12 * * *'
   workflow_dispatch: # Allows manual triggering from the GitHub Actions tab
 
 jobs:
